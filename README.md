@@ -2,7 +2,7 @@
 <h3 align="center">A junior developer from Slovakia</h3>
 
 - 🌱 I’m currently learning **Django, Flask, UE5**
-- 🖋 My hobby is 3D visualization, 3D printing and software programming **Cura, Blender**
+- 🖋 My hobby is 3D visualization, 3D printing and software programming **Cura, Blender, Python**
 - 🤖 I have experience with CAD drawing, mechanical engineering and 3D printing **Fusion360, Creo**
 
 
