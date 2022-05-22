@@ -36,7 +36,7 @@ Game with 8 AI opponents and 4 human players
 Solar calculator 
 
 <div align="left">
-  <a href="https://github.com/serstuk93/Hopy">
+  <a href="https://github.com/serstuk93/Solar_app">
     <img src="sol_calc3.png" alt="Logo" width="500" height="400">
   </a>
 </div>
@@ -45,7 +45,7 @@ Solar calculator
 Solar calculator #2 
 
 <div align="left">
-  <a href="https://github.com/serstuk93/Hopy">
+  <a href="https://github.com/serstuk93/Solar_app">
     <img src="sol_calc2.png" alt="Logo" width="500" height="400">
   </a>
 </div>
@@ -55,7 +55,7 @@ Solar calculator #2
 Well known snake game with extended functionality and main menu
 </p>
 <div align="left">
-  <a href="https://github.com/serstuk93/serstuk93">
+  <a href="https://github.com/serstuk93/had">
     <img src="hadik.png" alt="Logo" width="400" height="400">
   </a>
 </div>
