@@ -22,13 +22,31 @@ email: radoslav993@gmail.com
 
 <h3 align="left">My current python projects:</h3>
 <p align="left">
-  
-Game with 8 AI opponents and 4 human players
 </p>
 <br />
+Game with 8 AI opponents and 4 human players
+
 <div align="left">
   <a href="https://github.com/serstuk93/Hopy">
-    <img src="Screenshots/gameplay.png" alt="Logo" width="700" height="350">
+    <img src="gameplay.jpg" alt="Logo" width="800" height="400">
+  </a>
+</div>
+<br />
+
+Solar calculator 
+
+<div align="left">
+  <a href="https://github.com/serstuk93/Hopy">
+    <img src="sol_calc3.png" alt="Logo" width="500" height="400">
+  </a>
+</div>
+<br />
+
+Solar calculator #2 
+
+<div align="left">
+  <a href="https://github.com/serstuk93/Hopy">
+    <img src="sol_calc2.png" alt="Logo" width="500" height="400">
   </a>
 </div>
 <br />
@@ -36,7 +54,6 @@ Game with 8 AI opponents and 4 human players
 
 Well known snake game with extended functionality and main menu
 </p>
-<br />
 <div align="left">
   <a href="https://github.com/serstuk93/serstuk93">
     <img src="hadik.png" alt="Logo" width="400" height="400">
@@ -44,3 +61,54 @@ Well known snake game with extended functionality and main menu
 </div>
 <br />
 
+
+<h3 align="left">3D visualizations (Blender):</h3>
+<p align="left">
+</p>
+<br />
+House
+</p>
+<div align="left">
+  <a href="https://github.com/serstuk93/serstuk93">
+    <img src="rd10.png" alt="Logo" width="800" height="400">
+  </a>
+</div>
+<br />
+
+House
+</p>
+<div align="left">
+  <a href="https://github.com/serstuk93/serstuk93">
+    <img src="RENDERA6.png" alt="Logo" width="800" height="400">
+  </a>
+</div>
+<br />
+
+House
+</p>
+<div align="left">
+  <a href="https://github.com/serstuk93/serstuk93">
+    <img src="rd5.png" alt="Logo" width="800" height="400">
+  </a>
+</div>
+<br />
+
+
+Tourist tower 
+</p>
+<div align="left">
+  <a href="https://github.com/serstuk93/serstuk93">
+    <img src="v23.png" alt="Logo" width="800" height="400">
+  </a>
+</div>
+<br />
+
+
+Second tourist tower 
+</p>
+<div align="left">
+  <a href="https://github.com/serstuk93/serstuk93">
+    <img src="veza2022-0gimp.png" alt="Logo" width="800" height="500">
+  </a>
+</div>
+<br />
