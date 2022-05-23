@@ -27,8 +27,12 @@ email: radoslav993@gmail.com
 <h3 align="left">Competitive programming challenges:</h3>
 <p align="left"> <a   </a></p>
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/serstuk93/badges/large)
-
+<div align="left">
+  <a href="https://www.codewars.com/users/serstuk93">
+    <img src="https://www.codewars.com/users/serstuk93/badges/large" alt="Codewars badge">
+  </a>
+</div>
+<br />
 
 <h3 align="left">My current python projects:</h3>
 <p align="left">
@@ -75,7 +79,7 @@ Well known snake game with extended functionality and main menu
 <p align="left">
 </p>
 <br />
-House
+House interior #1
 </p>
 <div align="left">
   <a href="https://github.com/serstuk93/serstuk93">
@@ -84,7 +88,7 @@ House
 </div>
 <br />
 
-House
+House interior #2
 </p>
 <div align="left">
   <a href="https://github.com/serstuk93/serstuk93">
