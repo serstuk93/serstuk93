@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radoslav S.</h1>
+<h1 align="center">Hi 👋, I'm Radoslav Serstuk</h1>
 <h3 align="center">A junior developer from Slovakia</h3>
 
 - 🌱 I’m currently learning **Django, Flask, UE5**
