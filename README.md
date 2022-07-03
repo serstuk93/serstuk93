@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radoslav Serstuk</h1>
+<h1 align="center">Hi 👋, I'm Radoslav Šersťuk</h1>
 <h3 align="center">A junior developer from Slovakia <img src="https://github.com/Jerome-W-90/flags-icon-iso-3166-1-alpha-2/blob/master/flags/32/Slovakia.png"/> </h3>
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
