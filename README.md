@@ -48,7 +48,7 @@ Game with 8 AI opponents and 4 human players
 
 <div align="left">
   <a href="https://github.com/serstuk93/Hopy">
-    <img src="gameplay.jpg" alt="Logo" width="800" height="400">
+    <img src="https://github.com/serstuk93/Hopy/blob/master/Screenshots/scr1.png" alt="Logo" width="800" height="400">
   </a>
 </div>
 <br />
