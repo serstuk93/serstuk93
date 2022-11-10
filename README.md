@@ -57,7 +57,7 @@ Solar calculator
 
 <div align="left">
   <a href="https://github.com/serstuk93/Solar_app">
-    <img src="sol_calc3.png" alt="Logo" width="500" height="400">
+    <img src="sol_calc1.png" alt="Logo" width="500" height="400">
   </a>
 </div>
 <br />
@@ -65,7 +65,7 @@ Solar calculator
 Solar calculator #2 
 
 <div align="left">
-  <a href="https://github.com/serstuk93/Solar_app">
+  <a href="https://github.com/serstuk93/Solar_app/blob/tree/main/Screenshots">
     <img src="sol_calc2.png" alt="Logo" width="500" height="400">
   </a>
 </div>
