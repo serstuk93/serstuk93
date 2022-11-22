@@ -62,7 +62,7 @@ Solar calculator
 </div>
 <br />
 
-Solar calculator #2 
+#### Solar Calculator 
 
 <div align="left">
   <a href="https://github.com/serstuk93/Solar_app">
@@ -70,6 +70,13 @@ Solar calculator #2
   </a>
 </div>
 <br />
+
+#### Weather AVG
+<div align="left">
+  <a href="https://github.com/serstuk93/weatherAVG">
+      <img  src="https://github.com/serstuk93/weatherAVG/blob/bd6857470f7397bbea12f96f740b9dfaedacc05b/avgweather.gif" alt="animated" />
+  </a>
+</div>
 
 
 Well known snake game with extended functionality and main menu
