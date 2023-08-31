@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Radoslav Šersťuk</h1>
 <h3 align="center">A junior developer from Slovakia <img src="https://github.com/Jerome-W-90/flags-icon-iso-3166-1-alpha-2/blob/master/flags/32/Slovakia.png"/> </h3>
 
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- 🌱 I’m currently learning ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 - 🖋 My hobby is 3D visualization, 3D printing and software programming using    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-- 🤖 I have experience in CAD drawing, mechanical engineering and 3D printing with software [Fusion360](https://www.autodesk.com/products/fusion-360/overview), [Creo](https://www.ptc.com/en/products/creo/parametric), [Cura](https://ultimaker.com/software/ultimaker-cura) 
+- 🤖 I have experience in CAD drawing, mechanical engineering and 3D printing software [Fusion360](https://www.autodesk.com/products/fusion-360/overview), [Creo](https://www.ptc.com/en/products/creo/parametric), [Cura](https://ultimaker.com/software/ultimaker-cura) 
 
-- :desktop_computer: Currently running on <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
-
-
-
+- :desktop_computer: My home setup is currently running on <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
 
 
 <h3 align="left">Contact me:</h3>
@@ -78,15 +75,6 @@ Solar calculator
   </a>
 </div>
 
-
-Well known snake game with extended functionality and main menu
-</p>
-<div align="left">
-  <a href="https://github.com/serstuk93/had">
-    <img src="hadik.png" alt="Logo" width="400" height="400">
-  </a>
-</div>
-<br />
 
 
 Website 
