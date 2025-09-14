@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radoslav Šersťuk</h1>
-<h3 align="center">A junior developer from Slovakia <img src="https://github.com/Jerome-W-90/flags-icon-iso-3166-1-alpha-2/blob/master/flags/32/Slovakia.png"/> </h3>
+<h3 align="center">A software developer from Slovakia <img src="https://github.com/Jerome-W-90/flags-icon-iso-3166-1-alpha-2/blob/master/flags/32/Slovakia.png"/> </h3>
 
 - 🖋 My hobby is 3D visualization, 3D printing and software programming using    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
